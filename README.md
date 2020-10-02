@@ -1,6 +1,6 @@
 # Notas:
 
-Esta es una apliación de chat.
+Esta es una aplicación de chat.
 
 Recuerden que deben de reconstruir los módulos de node con el comando
 
